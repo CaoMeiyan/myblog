@@ -1,0 +1,23 @@
+{
+    "name": "CMYblog",
+    "version": "0.0.1",
+    "description": "",
+    "keywords": [
+        ""
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "CaiMeiyan <1099168914@qq.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "blog",
+        "md": [
+            "index.md",
+            "js中的继承Markdown.md",
+            "前端请求数据.md"
+        ]
+    }
+}
